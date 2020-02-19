@@ -1,0 +1,40 @@
+
+body {
+    background-image:url(images/pattern.jpg);
+}
+
+.container {
+    background-color:rgb(115, 111, 121);
+    width:75%;
+    height:100%;
+    margin:auto;
+    display:block;
+    
+}
+
+.grid {
+    margin:20px;
+}
+
+.bg-light{
+    background-color:rgb(106, 118, 187) !important; 
+    
+}
+
+.col-sm {
+    margin:5px;
+}
+
+.row {
+    margin:5px;
+}
+
+#message-box {
+    height:100px;
+}
+
+#nav-block {
+    margin:auto;
+    display:block;
+    width:75%;
+}
